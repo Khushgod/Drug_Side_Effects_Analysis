@@ -1,0 +1,30 @@
+Clustering Analysis Performance
+
+Algorithm: Unsupervised clustering (e.g., K-means)
+Number of Clusters: 4
+
+Cluster Distribution:
+Cluster 0: 817 samples
+Cluster 1: 800 samples
+Cluster 2: 564 samples
+Cluster 3: 750 samples
+
+Cluster Characteristics:
+Cluster 0   Dominant Condition: Acne      Dominant Drug Classes: Upper respiratory combinations    Avg. Rating: 8.27    Avg. Reviews: 9.53
+Cluster 1   Dominant Condition: Pain      Dominant Drug Classes: Analgesic combinations            Avg. Rating: 8.23    Avg. Reviews: 14.95
+Cluster 2   Dominant Condition: Colds & Flu  Dominant Drug Classes: Upper respiratory combinations  Avg. Rating: 7.80    Avg. Reviews: 10.05
+Cluster 3   Dominant Condition: Hypertension Dominant Drug Classes: Atypical antipsychotics       Avg. Rating: 5.30    Avg. Reviews: 145.38
+
+
+Top 10 Most Connected Drugs (degree centrality ≈ 0.001):
+- triamcinolone
+- clindamycin
+- erythromycin
+- doxepin
+- ciclesonide
+- beclomethasone
+- diphenhydramine
+- mometasone
+- hydrocortisone
+- fluticasone
+

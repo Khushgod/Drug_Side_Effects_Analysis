@@ -1,0 +1,56 @@
+## DATASET OVERVIEW
+• Total unique drugs analyzed: 2,912
+• Total medical conditions covered: 47
+• Total drug classes represented: 274
+• Data completeness: 85.1%
+
+## DRUG-CONDITION RELATIONSHIPS
+• Most treated condition: 'Pain' with 264 different drug options
+• 15 drugs treat multiple conditions (versatile medications)
+• Most versatile drug: 'triamcinolone' treats 3 different conditions
+
+## RATING AND REVIEW INSIGHTS
+• Average drug rating: 6.81/10 (median: 7.00)
+• Total user reviews analyzed: 119,053.0
+• High-rated drugs (≥8.0): 570 (19.4%)
+• Low-rated drugs (≤4.0): 168 (5.7%)
+• Best-rated drug class: 'Antibiotics / antineoplastics' (avg: 10.00)
+
+## SAFETY PROFILE INSIGHTS
+• Most common pregnancy category: C
+• Pregnancy-safe drugs (A/B categories): 527/2702 (19.5%)
+• Controlled substances: 218, Non-controlled: 2688
+
+## SIDE EFFECTS INSIGHTS
+• Most common side effect: 'lips' (reported 2273 times)
+• Total unique side effects identified: 13706
+• Top 5 most frequent side effects:
+  - Lips: 2273 occurrences
+  - Tongue: 2129 occurrences
+  - Hives: 1940 occurrences
+  - Swelling Of Your Face: 1713 occurrences
+  - Vomiting: 1273 occurrences
+
+## NETWORK ANALYSIS INSIGHTS
+• Drug-condition network contains 2959 nodes and 2928 connections
+• Most connected drug: 'triamcinolone' (centrality: 0.001)
+• Network density: 0.0007 (how interconnected drugs and conditions are)
+
+## CLUSTERING INSIGHTS
+• Drugs grouped into 4 distinct clusters based on characteristics
+• Cluster 0: Primarily 'Acne' drugs in 'Upper respiratory combinations' class (avg rating: 8.27)
+• Cluster 1: Primarily 'Pain' drugs in 'Analgesic combinations' class (avg rating: 8.23)
+• Cluster 2: Primarily 'Colds & Flu' drugs in 'Upper respiratory combinations' class (avg rating: 7.80)
+• Cluster 3: Primarily 'Hypertension' drugs in 'Atypical antipsychotics' class (avg rating: 5.30)
+
+## PRESCRIPTION STATUS INSIGHTS
+• Rx drugs: 1998 (68.2%)
+• Rx/OTC drugs: 604 (20.6%)
+• OTC drugs: 328 (11.2%)
+
+## KEY RECOMMENDATIONS
+• Focus on conditions with fewer drug options for new drug development opportunities
+• Investigate why certain drug classes have consistently higher ratings
+• Monitor drugs with low safety scores for potential safety improvements
+• Leverage versatile drugs (treating multiple conditions) for cost-effective treatment strategies
+• Address common side effects through formulation improvements or alternative therapies
